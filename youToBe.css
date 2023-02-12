@@ -1,0 +1,66 @@
+body {
+    background-image: url(https://images.saymedia-content.com/.image/t_share/MTc4NzM1OTc4MzE0MzQzOTM1/how-to-create-cool-website-backgrounds-the-ultimate-guide.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: round;
+}
+
+#homeBody {
+    width: 900px;
+    margin: auto;
+    background-color: azure;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+header {
+    margin: auto;
+    text-align: center;
+    font-size: 30px;
+    padding: 25px;
+}
+
+nav {
+    background-color: #960D85;
+    list-style-type: none;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+nav a {
+    display: inline-block;
+    font-size: 20px;
+    color: azure;
+    padding: 20px;
+    text-decoration: none;
+}
+
+nav a:hover {
+    background-color: #7E1C72;
+}
+
+#suggestedVideos {
+    padding: 20px;
+    float: inline-end;
+    list-style-type: none;
+    text-align: left;
+}
+
+#sVideos {
+    float: inline-start;
+}
+
+#sVideos li {
+    display: inline-block;
+    text-decoration: none;
+    width: 23%;
+}
+
+main {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#suggestedContent {
+    padding: 20px;
+}
